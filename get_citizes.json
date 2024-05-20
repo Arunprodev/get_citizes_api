@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f2bd",
+    "cityName": "Madurai",
+    "country": "India",
+    "emoji": "🇮🇳",
+    "date": "2024-05-07T04:51:36.957Z",
+    "position": {
+      "lat": "9.918427609761855",
+      "lng": "78.09106863514059"
+    },
+    "notes": "super"
+  },
+  {
+    "id": "ef6a",
+    "cityName": "Delhi",
+    "country": "India",
+    "emoji": "🇮🇳",
+    "date": "2024-05-20T15:16:11.484Z",
+    "position": {
+      "lat": "28.57487404744697",
+      "lng": "77.14668224746187"
+    },
+    "notes": "capital of india "
+  },
+  {
+    "id": "84ad",
+    "cityName": "Mumbai",
+    "country": "India",
+    "emoji": "🇮🇳",
+    "date": "2024-05-20T15:17:16.418Z",
+    "position": {
+      "lat": "19.05173366503917",
+      "lng": "72.88881964984758"
+    },
+    "notes": "Richest city in india"
+  }
+]
